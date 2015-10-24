@@ -18,7 +18,7 @@ import javax.swing.UIManager;
 public class FIAR extends JFrame{
 
 	/**
-	 * 
+	 * Author: Joe Thornton
 	 */
 	private static final long serialVersionUID = 1L;
 
